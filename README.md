@@ -3,6 +3,8 @@ A cups method for printing labels with barcodes to a ZT220
 
 ## Step 1: Add the Zebra ZT220 to macOS via CUPS
 Connect the printer with a USB cable. Allow connection if prompted.
+Use this video to ensure the printer is properly calibrated
+https://supportcommunity.zebra.com/s/article/ZT200-Series-Ribbon-and-Media-Calibration-Video?language=en_US
 
 ### Enable CUPS on macOS:
 Open Terminal (Applications > Utilities > Terminal).
